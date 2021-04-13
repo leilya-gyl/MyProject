@@ -1,0 +1,4 @@
+include ':app:create_screen'
+include ':app:my_context_menu'
+include ':app'
+rootProject.name = "MyProject"
