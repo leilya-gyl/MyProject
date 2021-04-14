@@ -1,3 +1,4 @@
+include ':addviewelem'
 include ':changescreen'
 include ':notofication'
 include ':app:create_screen'
