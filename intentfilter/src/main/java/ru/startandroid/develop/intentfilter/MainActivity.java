@@ -34,7 +34,7 @@ public class MainActivity extends Activity implements OnClickListener {
                 startActivity(intent);
                 break;
             case R.id.btnDate:
-                intent = new Intent("ru.startandroid.intent.action.showdate");
+                intent = new Intent("ru.startandroid.intent.action.showdata");
                 startActivity(intent);
                 break;
         }

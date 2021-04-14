@@ -9,6 +9,29 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyProject">
+        <activity android:name=".ActivityDataEx"
+            android:label="Date extended">
+            <intent-filter>
+                <action android:name="ru.startandroid.intent.action.showdata" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityData"
+            android:label="Date basic">
+            <intent-filter>
+                <action android:name="ru.startandroid.intent.action.showdata" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityTime">
+            <intent-filter>
+                <action android:name="ru.startandroid.intent.action.showtime" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
