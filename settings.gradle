@@ -1,3 +1,4 @@
+include ':simpleanimation'
 include ':p0181_dynamiclayout3'
 include ':changescreen'
 include ':notofication'

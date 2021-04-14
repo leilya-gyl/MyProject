@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/changescreen" />
             <option value="$PROJECT_DIR$/notofication" />
             <option value="$PROJECT_DIR$/p0181_dynamiclayout3" />
+            <option value="$PROJECT_DIR$/simpleanimation" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
