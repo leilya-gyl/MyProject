@@ -1,4 +1,4 @@
-package lord.main.addviewelem;
+package ru.startandroid.develop.p0181_dynamiclayout3;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("lord.main.addviewelem", appContext.getPackageName());
+        assertEquals("ru.startandroid.develop.p0181_dynamiclayout3", appContext.getPackageName());
     }
 }

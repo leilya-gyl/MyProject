@@ -1,4 +1,4 @@
-package lord.main.addviewelem;
+package ru.startandroid.develop.p0181_dynamiclayout3;
 
 import org.junit.Test;
 

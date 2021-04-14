@@ -11,12 +11,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/addviewelem" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/create_screen" />
             <option value="$PROJECT_DIR$/app/my_context_menu" />
             <option value="$PROJECT_DIR$/changescreen" />
             <option value="$PROJECT_DIR$/notofication" />
+            <option value="$PROJECT_DIR$/p0181_dynamiclayout3" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
