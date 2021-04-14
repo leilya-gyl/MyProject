@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">notofication</string>
+    <string name="btntext">Создать уведомление</string>
+</resources>

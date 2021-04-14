@@ -14,6 +14,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/create_screen" />
             <option value="$PROJECT_DIR$/app/my_context_menu" />
+            <option value="$PROJECT_DIR$/changescreen" />
+            <option value="$PROJECT_DIR$/notofication" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
