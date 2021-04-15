@@ -1,3 +1,4 @@
+include ':simpleintents'
 include ':simpleactivityresult'
 include ':intentextras'
 include ':getintentaction'
