@@ -27,6 +27,7 @@
             <option value="$PROJECT_DIR$/simpleintents" />
             <option value="$PROJECT_DIR$/simplesqlite" />
             <option value="$PROJECT_DIR$/sqliteinnerjoin" />
+            <option value="$PROJECT_DIR$/sqliteonupgradedb" />
             <option value="$PROJECT_DIR$/sqlitetransaction" />
             <option value="$PROJECT_DIR$/twoactivitystate" />
           </set>
