@@ -1,3 +1,4 @@
+include ':sharedpreferences'
 include ':simplebrowser'
 include ':simpleintents'
 include ':simpleactivityresult'
