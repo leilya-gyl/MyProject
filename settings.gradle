@@ -1,3 +1,4 @@
+include ':sqlitetransaction'
 include ':sqliteinnerjoin'
 include ':simplesqlite'
 include ':sharedpreferences'
