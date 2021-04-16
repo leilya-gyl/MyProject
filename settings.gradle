@@ -1,3 +1,4 @@
+include ':simplesqlite'
 include ':sharedpreferences'
 include ':simplebrowser'
 include ':simpleintents'
