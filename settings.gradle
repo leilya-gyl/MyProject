@@ -1,3 +1,4 @@
+include ':sqliteinnerjoin'
 include ':simplesqlite'
 include ':sharedpreferences'
 include ':simplebrowser'
