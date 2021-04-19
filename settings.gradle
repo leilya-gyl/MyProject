@@ -1,3 +1,4 @@
+include ':layoutinflater'
 include ':sqliteonupgradedb'
 include ':sqlitetransaction'
 include ':sqliteinnerjoin'
