@@ -1,3 +1,4 @@
+include ':expandablelist'
 include ':simplelistevents'
 include ':simplelist'
 include ':layoutinflater'
