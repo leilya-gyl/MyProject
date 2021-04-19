@@ -27,6 +27,7 @@
             <option value="$PROJECT_DIR$/simplebrowser" />
             <option value="$PROJECT_DIR$/simpleintents" />
             <option value="$PROJECT_DIR$/simplelist" />
+            <option value="$PROJECT_DIR$/simplelistevents" />
             <option value="$PROJECT_DIR$/simplesqlite" />
             <option value="$PROJECT_DIR$/sqliteinnerjoin" />
             <option value="$PROJECT_DIR$/sqliteonupgradedb" />

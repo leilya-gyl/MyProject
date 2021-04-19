@@ -1,3 +1,4 @@
+include ':simplelistevents'
 include ':simplelist'
 include ':layoutinflater'
 include ':sqliteonupgradedb'
